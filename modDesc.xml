@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="96">
+  <author>Leo</author>
+  <version>0.0.0.1</version>
+  <title>
+    <en>Thunderfarming Gemüseblitz</en>
+  </title>
+  <description>
+    <en><![CDATA[
+Category: Vegetable Planters
+Price: $51,500
+Required power: 70 hp
+Working width: 6m
+Working speed: 20 kph
+Capacity: 32 L
+]]></en>
+<de><![CDATA[
+Shopkategorie: Gemüse Pflanzmaschinen
+Preis: 51.500€
+Benötigte Leistung: 70 PS
+Arbeitsbreite: 6m
+Arbeitsgeschwindigkeit: 20 km/h
+Kapazität: 32 L
+]]></de>
+  </description>
+  <iconFilename>store/icon_Gemueseblitz.dds</iconFilename>
+  <storeItems>
+    <storeItem xmlFilename="xml/Gemueseblitz.xml" />
+  </storeItems>
+  <brands>
+    <brand title="Thunderfarming" image="brand/brand_ThF.dds" name="Thunderfarming" />
+  </brands>
+  <multiplayer supported="true" />
+  <site link="" title="" />
+</modDesc>
