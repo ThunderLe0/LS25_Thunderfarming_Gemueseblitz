@@ -513,7 +513,7 @@
             <fillUnitConfiguration>
                 <fillUnits>
                     <unloading width="2.1" offset="0 0 -1.8"/>
-                    <fillUnit unitTextOverride="$l10n_unit_literShort" fillTypes="seeds" capacity="32" uiPrecision="2">
+                    <fillUnit unitTextOverride="$l10n_unit_literShort" fillTypes="seeds" capacity="100" uiPrecision="2">
                         <exactFillRootNode node="exactFillRootNodeSeeds"/>
                     </fillUnit>
                 </fillUnits>
