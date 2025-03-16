@@ -2,8 +2,7 @@
 <vehicle type="sowingMachine" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../shared/xml/schema/vehicle.xsd">
     <annotation>Copyright (C) GIANTS Software GmbH, All Rights Reserved.</annotation>
     <storeData>
-        <name params="$l10n_configuration_foldable">
-            <en>Gemueseblitz</en></name>
+        <name>Gemueseblitz</name>
         <specs>
             <neededPower>70</neededPower>
             <workingWidth>6</workingWidth>
